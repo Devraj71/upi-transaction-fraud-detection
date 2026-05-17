@@ -70,6 +70,6 @@ Our models were evaluated on a stratified, untouched 20% test set (50,000 transa
    cd upi-transaction-fraud-detection
    ```
 2. **Download the Dataset:**
-   Place your `upi_transactions_2024.csv` inside the `DATA SET/` folder.
+   Download the `upi_transactions_2024.csv` dataset from the **[Latest GitHub Release](https://github.com/Devraj71/upi-transaction-fraud-detection/releases/latest)** and place it inside the `DATA SET/` folder (create the folder if it doesn't exist).
 3. **Run the Notebook:**
    Launch Jupyter Notebook or VS Code, open `UPI_Analsys.ipynb`, and select **Run All Cells** to see the full EDA charts and train the machine learning models instantly!
