@@ -1,0 +1,19 @@
+# Datasets (large files should be ignored)
+DATA SET/
+*.csv
+*.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$*.py
+
+# Local Environment or IDE files
+.vscode/
+.idea/
+.env
+.gemini/
